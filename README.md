@@ -58,7 +58,7 @@ The project files are stored in the following folders:
 - 04 Analysis: The 'Visualizations' folder contains the visualizations used for developing and explaining insights.
 - 05 Sent to Client: The final report presented in Excel
 
-## **Disclaimeer**
+## **Disclaimer**
 Note: Instacart is a real company that's made their data available online. However, the contents of the attached project brief have been fabricated by CareerFoundry for the purpose of this analysis.
 
 
