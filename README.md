@@ -39,19 +39,20 @@ Original datasets used for this  project:
 - Departments
 
 ## **Tools**
-The data was analyzed using Python and the following libraries:
+The data was analyzed using the following Python libraries:
 
-- Pandas: for data analysis
+- pandas: for data analysis
 - Numpy: for mathematical equations
-- Seaborn: for data visualizations
-- Mtplotlib: for data visualizations
-- SciPy: for mathematical equations
+- os: included automatically with Python; suports functions for interacting with the operating system of your device
+- seaborn: for data visualizations
+- matplotlib: for data visualizations
+- scipy: for data visualizations
 
 ## **Folders**
-The project files ar stored in the following folders:
+The project files are stored in the following folders:
 
-- 01 Project Management: Project brief
-- 02 Data: Contains 2 subfolders -Original and Prepared. 'Original" contains the original data set. 'aPrepared" contains data after it has been cleaned.
+- 01 'Project Management': Project brief
+- 02 'Data': Contains 2 subfolders - 'Original' and 'Prepared'; 'Original' contains the original data set. 'Prepared' contains data after it has been cleaned.
             Data files not uploaded to GitHub due to size limitations
 - 03 Scripts: The Jupyter notebooks containing the coding for th analysis.
 - 04 Analysis: The 'Visualizations' folder contains the visualizations used for developing and explaining insights.
