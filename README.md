@@ -43,7 +43,7 @@ The data was analyzed using the following Python libraries:
 
 - pandas: for data analysis
 - Numpy: for mathematical equations
-- os: included automatically with Python; suports functions for interacting with the operating system of your device
+- os: included automatically with Python; supports functions for interacting with the operating system of your device
 - seaborn: for data visualizations
 - matplotlib: for data visualizations
 - scipy: for data visualizations
