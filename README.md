@@ -54,7 +54,7 @@ The project files are stored in the following folders:
 - 01 'Project Management': Project brief
 - 02 'Data': Contains 2 subfolders - 'Original' and 'Prepared'; 'Original' contains the original data set. 'Prepared' contains data after it has been cleaned.
             Data files not uploaded to GitHub due to size limitations
-- 03 Scripts: The Jupyter notebooks containing the coding for th analysis.
+- 03 Scripts: The Jupyter notebooks containing the coding for the analysis.
 - 04 Analysis: The 'Visualizations' folder contains the visualizations used for developing and explaining insights.
 - 05 Sent to Client: The final report presented in Excel
 
